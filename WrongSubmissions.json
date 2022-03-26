@@ -1,5 +1,8 @@
 {
   "code chef": {
-    "wrong Submissions": ["https://www.codechef.com/problems/HILLS"]
+    "wrong Submissions": [
+      "https://www.codechef.com/problems/HILLS",
+      "https://www.codechef.com/problems/AVG"
+    ]
   }
 }
